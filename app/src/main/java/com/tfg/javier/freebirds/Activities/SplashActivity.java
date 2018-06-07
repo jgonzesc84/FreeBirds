@@ -17,17 +17,7 @@ public class SplashActivity extends AppCompatActivity {
         waitMe();
 
     }
-
-
-
-
-
-
-
-
-
-
-
+    //TO DO SEE ASYN TASK
     void waitMe(){
         Thread timer= new Thread()
         {
