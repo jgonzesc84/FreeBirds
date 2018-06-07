@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "898592389822",
+    "firebase_url": "https://freebirds-3af34.firebaseio.com",
+    "project_id": "freebirds-3af34",
+    "storage_bucket": "freebirds-3af34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898592389822:android:b2f19f6b1b363585",
+        "android_client_info": {
+          "package_name": "com.tfg.javier.freebirds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898592389822-sk678br139t9q88kpq4tb89f49nrvinf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "898592389822-sk678br139t9q88kpq4tb89f49nrvinf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahSdROOXZb0s8i2f9W0ZzDUrwaFYz5r8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
